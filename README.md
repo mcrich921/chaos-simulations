@@ -50,7 +50,9 @@ $$ d = \dfrac{\ln{m}}{\ln{r}} $$
 Where _*m*_ is the number of copies of the original and _*r*_ is the amount it is scaled down for each iteration. In this case, at each iteration the original image is scaled down by 3 and there are 4 copies of the original.
 
 Using this, we can calculate the dimension of the Koch snowflake to be
+
 $$ d = \dfrac{\ln{4}}{\ln{3}} \approx 1.27$$
+
 which is more than 1 and less than 2, as expected.
 
 ### Mandelbrot Set
