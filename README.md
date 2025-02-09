@@ -14,14 +14,14 @@ A compilation of numerical simulations relating to Nonlinear Dynamics & Chaos. I
 ### 🦋 Lorenz Butterfly
 
 <div align="center">
-    <img src="images/single_lorenz.png" alt="Diagram" width="80%"><br />
+    <img src="images/single_lorenz.png" alt="Diagram" width="80%">
     A Mathematical Butterfly: Simulating the Lorenz Attractor
     <br />
-    <img src="images/two_lorenz.png" alt="Diagram" width="50%"><br />
+    <img src="images/two_lorenz.png" alt="Diagram" width="50%">
     Two different random initial conditions end up on the same "strange attractor"
     <br />
     <img src="images/ic_separation.png" alt="Diagram" width="40%">
-    <img src="images/lyapunov.png" alt="Diagram" width="40%"><br />
+    <img src="images/lyapunov.png" alt="Diagram" width="40%">
     Chaos: An Exponential Divergence of Initial Conditions
     <br />
 
