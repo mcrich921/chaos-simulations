@@ -15,18 +15,20 @@ A compilation of numerical simulations relating to Nonlinear Dynamics & Chaos. I
 
 <div align="center">
   <figure>
-    <img src="images/single_lorenz.png" alt="Diagram" width="80%">
-    <figcaption>A Mathematical Butterfly: Simulating the Lorenz Attractor</figcaption>
+    <img src="images/single_lorenz.png" alt="Diagram" width="80%"><br />
+    A Mathematical Butterfly: Simulating the Lorenz Attractor
   </figure>
+  <br />
   <figure>
-    <img src="images/two_lorenz.png" alt="Diagram" width="50%">
-    <figcaption>Two different random initial conditions end up on the same "strange attractor"</figcaption>
-  </figure>
+    <img src="images/two_lorenz.png" alt="Diagram" width="50%"><br />
+    Two different random initial conditions end up on the same "strange attractor"
+  </figure><br />
   <figure>
     <img src="images/ic_separation.png" alt="Diagram" width="40%">
-    <img src="images/lyapunov.png" alt="Diagram" width="40%">
-    <figcaption>Chaos: An Exponential Divergence of Initial Conditions</figcaption>
+    <img src="images/lyapunov.png" alt="Diagram" width="40%"><br />
+    Chaos: An Exponential Divergence of Initial Conditions
   </figure>
+  <br />
 </div>
 
 Two nearly identical initial conditions in the Lorenz system (colored trajectories) start close together but rapidly separate over time. This striking demonstration of sensitive dependence on initial conditions — colloquially known as the Butterfly Effect — illustrates how infinitesimal disturbances lead to exponentially different outcomes in chaotic systems.
